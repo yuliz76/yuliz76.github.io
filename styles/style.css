@@ -29,6 +29,9 @@ body {
 .bg-mountbattenpink {
     background-color: #9d8189;
 }
+.bg-green {
+    background-color: green;
+}
 /* end debug */
 
 /* start container */
